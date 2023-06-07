@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\bin\Debug\net6.0\Lad08_3.exe
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\bin\Debug\net6.0\Lad08_3.deps.json
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\bin\Debug\net6.0\Lad08_3.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\bin\Debug\net6.0\Lad08_3.dll
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\bin\Debug\net6.0\Lad08_3.pdb
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.dll
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\refint\Lad08_3.dll
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.pdb
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\Lad08_3.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\LINQ Basic\Lad08_3\Lad08_3\obj\Debug\net6.0\ref\Lad08_3.dll
